@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Mi Página
+title: UD1.1 Introducció al disseny d'algorismes
 ---
-
-# Introducció al Disseny d'Algorismes
 
 ## 1\. Què és la Programació?
 
