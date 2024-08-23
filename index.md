@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mi Página
+---
+
 # Introducció al Disseny d'Algorismes
 
 ## 1\. Què és la Programació?
