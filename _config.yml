@@ -1,3 +1,4 @@
+markdown: kramdown
 theme: jekyll-theme-cayman
 custom_css:
   - css/custom.css
