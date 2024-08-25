@@ -1,0 +1,6 @@
+markdown: kramdown
+theme: jekyll-theme-cayman
+include:
+  - assets/css/style.css
+plugins:
+  - jekyll-mermaid
