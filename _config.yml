@@ -2,3 +2,5 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 include:
   - css/style.css
+plugins:
+  - jekyll-mermaid
